@@ -11,9 +11,7 @@
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyfow&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="ReyFow's Stats"/>
 </a>
 
-## 💻Tools 
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='40' alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='40' alt="c logo"  />
   <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" height='49' alt="x86-64 logo"  />
@@ -24,13 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='40' alt="linux logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40' alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height='40' alt="xd logo"  />
+  <p> <b>Current IDE :</b> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30'> </p>
 </div>
 
-<p> <b>Current IDE :</b> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30'> </p>
-
-## 📫 How to reach me:
-
-<div align="left">
+<div align="center">
   </a>
   <a href="mailto:rafaraujo589@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="38" alt="gmail logo" />
