@@ -1,8 +1,6 @@
-<h2 align="left">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35" /> !</h2>
+<h2 align="left">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35" /> My name is Rafael Araújo and I'm a software engineering student at ISEP from <b>Porto, Portugal</b> <img src="https://user-images.githubusercontent.com/107275079/215307237-c38ad7fe-6c2b-49cd-a3f9-91b42b36ccf4.png" width="17" />!</h2>
 
 <div align="center">
-  
-  <p> My name is Rafael Araújo and I'm a software engineering student at ISEP from <b>Porto, Portugal</b> <img src="https://user-images.githubusercontent.com/107275079/215307237-c38ad7fe-6c2b-49cd-a3f9-91b42b36ccf4.png" width="17" />. </p>
   
   ### 📈Stats
   
