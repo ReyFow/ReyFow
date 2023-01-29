@@ -39,7 +39,7 @@
   <a href="https://github.com/joaopinto15" target="_blank">
     <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'  />
     
-   ### 🐍 Snake eating Contributions 🐍
+   ### 🐍 Snake eating contribution graph 🐍
     
   ![Snake animation](https://github.com/ReyFow/ReyFow/blob/output/github-contribution-grid-snake.svg)
     
