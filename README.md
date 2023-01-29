@@ -28,7 +28,7 @@
 
 <p> <b>Current IDE :</b> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30'> </p>
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 <div align="left">
   </a>
