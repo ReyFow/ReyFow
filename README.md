@@ -37,8 +37,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="38" alt="gmail logo" />
   <a href="https://www.linkedin.com/in/rafael-araújo-35ba30259" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='40' alt="linkedin logo"  /> 
-  <a href="https://github.com/joaopinto15" target="_blank">
-    <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg' alt='github' height='40'  />
     
    ### 🐍 Snake eating contribution graph 🐍
     
