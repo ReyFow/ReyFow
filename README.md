@@ -38,15 +38,15 @@
   <a href="https://discordapp.com/users/314894725884805120" target="_blank">
     <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" height='40' alt="Discord logo"  />
     
-   ### 🐍 Snake eating contribution graph 🐍
-    
-  ![Snake animation](https://github.com/ReyFow/ReyFow/blob/output/github-contribution-grid-snake.svg)
-    
    ### 💩 Some of my friends
 
    <a href="https://github.com/vscosousa" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile"  />
    <a href="https://github.com/joaopinto15" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile"  />
+    
+   ### 🐍 Snake eating contribution graph 🐍
+    
+  ![Snake animation](https://github.com/ReyFow/ReyFow/blob/output/github-contribution-grid-snake.svg)
     
 </div>
