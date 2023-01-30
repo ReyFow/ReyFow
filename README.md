@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height='40' alt="xd logo"  />
   </a>
   
-  ### Current IDE
+  ### 👨‍💻 Current IDE
   
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30' />
   
