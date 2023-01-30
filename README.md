@@ -32,9 +32,11 @@
   ### 📫 How to reach me
   
   <a href="mailto:rafaraujo589@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="38" alt="gmail logo" />
+    <img src="https://user-images.githubusercontent.com/107275079/215570983-890f1d63-b366-452e-9c54-e34bc939178d.png" height="38" alt="email logo" />
   <a href="https://www.linkedin.com/in/rafael-araújo-35ba30259" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height='40' alt="linkedin logo"  /> 
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height='40' alt="linkedin logo"  /> 
+  <a href="https://discordapp.com/users/314894725884805120" target="_blank">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" height='40' alt="Discord logo"  />
     
    ### 🐍 Snake eating contribution graph 🐍
     
@@ -43,7 +45,7 @@
    ### 💩 Some of my friends
 
    <a href="https://github.com/vscosousa" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" border="3" alt="vscosousa profile"  />
+      <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile"  />
    <a href="https://github.com/joaopinto15" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile"  />
     
