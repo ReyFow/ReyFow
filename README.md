@@ -44,6 +44,8 @@
       <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile"  />
    <a href="https://github.com/joaopinto15" target="_blank">
       <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile"  />
+   <a href="https://github.com/gugaa03" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/127400986?v=4" height="40" alt="gugaa03 profile"  />
     
    ### 🐍 Snake eating contribution graph 🐍
     
