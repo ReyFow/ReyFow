@@ -1,58 +1,70 @@
-<h2 align="left">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="35" />! My name is Rafael Araújo and I'm a software engineering student at ISEP from <b>Porto, Portugal</b> <img src="https://user-images.githubusercontent.com/107275079/215307237-c38ad7fe-6c2b-49cd-a3f9-91b42b36ccf4.png" width="17" />!</h2>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4E1764"/>
 
-<div align="center">
-  
-  ### 📈Stats
-  
-  <a href="https://github.com/ReyFow/ReyFow">
-    <img src="https://github-readme-stats.vercel.app/api?username=reyfow&show_icons=true&line_height=20&count_private=true&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000" alt="ReyFow's"/>
-  </a>
-  <a href="https://github.com/ReyFow/ReyFow">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyfow&layout=compact&title_color=8c1aff&text_color=ffffff&bg_color=1d1f21&border_color=000000&langs_count=6" alt="ReyFow's Stats"/>
-    
-   ### 💻Tools 
-    
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='40' alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='40' alt="c logo"  />
-  <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png" height='49' alt="x86-64 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40' alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40' alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40' alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40' alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='40' alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40' alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height='40' alt="xd logo"  />
-  </a>
-  
-  ### 👨‍💻 Current IDE
-  
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30' />
-  
-  ### 📫 How to reach me
-  
-  <a href="mailto:rafaraujo589@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/107275079/215570983-890f1d63-b366-452e-9c54-e34bc939178d.png" height="38" alt="email logo" />
-  <a href="https://www.linkedin.com/in/rafael-araújo-35ba30259" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height='40' alt="linkedin logo"  /> 
-  <a href="https://discordapp.com/users/314894725884805120" target="_blank">
-    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" height='40' alt="Discord logo"  />
-    
-   ### 💩 Some of my friends
+<h2 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505"
+    width="35" alt="Hand wave emoji" />! My name is Rafael Araújo and I'm a software engineering student at ISEP from <b>Porto, Portugal</b>
+  <img src="https://user-images.githubusercontent.com/107275079/215307237-c38ad7fe-6c2b-49cd-a3f9-91b42b36ccf4.png"
+    width="17" alt="Portugal flag" />!</h2>
 
-   <a href="https://github.com/vscosousa" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile"  />
-   <a href="https://github.com/joaopinto15" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile"  />
-   <a href="https://github.com/gugaa03" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/127400986?v=4" height="40" alt="gugaa03 profile"  />
-    
-   ### 🐍 Snake eating contribution graph 🐍
-    
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake.svg">
-  </picture>
-    
-</div>
+<section align="center">
+  <h3>📈 Stats</h3>
+  <div>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=reyfow&show_icons=true&theme=transparent&hide_border=true&hide_title=true&title_color=4E1764&text_color=ffffff" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyfow&theme=transparent&langs_count=3&hide_border=true&title_color=ffffff&text_color=ffffff" />
+  </div>
+
+  <h3>💻 Skills</h3>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='40'
+      alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='40' alt="c logo" />
+    <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png"
+      height='49' alt="x86-64 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40' alt="java logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'
+      alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40'
+      alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40' alt="css3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40' alt="git logo" />
+  </div>
+
+  <h3>🛠️ Tools</h3>
+  <div>
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30' />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='40'
+    alt="linux logo" />
+  </div>
+
+  <h3>📫 How to reach me</h3>
+  <div>
+    <a href="mailto:rafaraujo589@gmail.com" target="_blank"><img
+        src="https://user-images.githubusercontent.com/107275079/215570983-890f1d63-b366-452e-9c54-e34bc939178d.png"
+        height="38" alt="Email logo" /></a>
+      <a href="https://www.linkedin.com/in/rafael-araújo-35ba30259" target="_blank"><img
+          src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height='40'
+          alt="linkedin logo" /></a>
+  </div>
+
+  <h3>💩 Some of my friends</h3>
+  <div>
+    <a href="https://github.com/vscosousa" target="_blank"><img
+        src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile" /></a>
+      <a href="https://github.com/joaopinto15" target="_blank"><img
+          src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile" /></a>
+        <a href="https://github.com/gugaa03" target="_blank"><img
+            src="https://avatars.githubusercontent.com/u/127400986?v=4" height="40" alt="gugaa03 profile" /></a>
+  </div>
+
+  <h3>🐍 Snake eating contribution graph 🐍</h3>
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake-dark.svg">
+      <img alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+</section>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4E1764&section=footer"/>
