@@ -32,9 +32,11 @@
 
   <h3>🛠️ Tools</h3>
   <div>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='30' />
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='40'
     alt="linux logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height='40'
+    alt="jira logo" />
   </div>
 
   <h3>📫 How to reach me</h3>
