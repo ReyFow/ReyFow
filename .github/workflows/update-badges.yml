@@ -1,4 +1,4 @@
-name: Update badges
+name: update badges
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: joaopinto15/badge-readme@main
+        uses: reyfow/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_MESSAGE: "Updated badges" # optional
