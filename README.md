@@ -62,7 +62,8 @@
   <h3>🏅Badges</h3>
   <div>
     <!--START_SECTION:badges-->
-    <!--END_SECTION:badges-->
+[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/5x5/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/da627eba-8c58-45ef-b905-95887e80cf3c "Fortinet Certified Fundamentals Cybersecurity")
+<!--END_SECTION:badges-->
   </div>
 
   <h3>✅ Contributions</h3>
