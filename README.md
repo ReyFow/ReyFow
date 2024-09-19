@@ -63,6 +63,7 @@
   <div>
       
 <!--START_SECTION:badges-->
+[![Introduction to Cybersecurity](https://images.credly.com/size/75x75/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/3acbd55e-7d2a-4321-96ad-b890294a1bbb "Introduction to Cybersecurity")
 [![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/75x75/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/da627eba-8c58-45ef-b905-95887e80cf3c "Fortinet Certified Fundamentals Cybersecurity")
 <!--END_SECTION:badges-->  
   </div>
