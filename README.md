@@ -9,7 +9,7 @@
   <h3>📈 Stats</h3>
   <div>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=reyfow&show_icons=true&theme=transparent&hide_border=true&hide_title=true&title_color=4E1764&text_color=ffffff" />
+      src="https://github-readme-stats.vercel.app/api?username=reyfow&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&hide_title=true&title_color=4E1764&text_color=ffffff" />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyfow&theme=transparent&langs_count=3&hide_border=true&title_color=ffffff&text_color=ffffff" />
   </div>
@@ -27,7 +27,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40'
       alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40' alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40' alt="git logo" />
   </div>
 
   <h3>🛠️ Tools</h3>
@@ -37,6 +36,7 @@
     alt="linux logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height='40'
     alt="jira logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40' alt="git logo" />
   </div>
 
   <h3>📫 How to reach me</h3>
@@ -59,7 +59,13 @@
             src="https://avatars.githubusercontent.com/u/127400986?v=4" height="40" alt="gugaa03 profile" /></a>
   </div>
 
-  <h3>🐍 Snake eating contribution graph 🐍</h3>
+  <h3>🏅Badges</h3>
+  <div>
+    <!--START_SECTION:badges-->
+    <!--END_SECTION:badges-->
+  </div>
+
+  <h3>✅ Contributions</h3>
   <div>
     <picture>
       <source media="(prefers-color-scheme: dark)"
