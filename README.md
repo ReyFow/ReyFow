@@ -8,8 +8,8 @@
 <section align="center">
   <h3>📈 Stats</h3>
   <div>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=reyfow&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&hide_title=true&title_color=4E1764&text_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ReyFow&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=4E1764&icon_color=4E1764&text_color=ffffff&include_all_commits=true" /> 
+
     
 <!-- <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyFow&theme=transparent&langs_count=3&hide_border=true&title_color=ffffff&text_color=ffffff" /> -->
