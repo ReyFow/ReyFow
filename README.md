@@ -64,10 +64,10 @@
   <div>
       
 <!--START_SECTION:badges-->
-[![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/3acbd55e-7d2a-4321-96ad-b890294a1bbb "Introduction to Cybersecurity")
-[![Networking Basics](https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/145b6168-39d1-4cfe-b375-706f8ec065cc "Networking Basics")
-[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/da627eba-8c58-45ef-b905-95887e80cf3c "Fortinet Certified Fundamentals Cybersecurity")
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/80x80/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/af21f826-9168-4dc8-b06e-d87653942137 "Networking Devices and Initial Configuration")
+[![Networking Basics](https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/145b6168-39d1-4cfe-b375-706f8ec065cc "Networking Basics")
+[![Introduction to Cybersecurity](https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/3acbd55e-7d2a-4321-96ad-b890294a1bbb "Introduction to Cybersecurity")
+[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/80x80/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/da627eba-8c58-45ef-b905-95887e80cf3c "Fortinet Certified Fundamentals Cybersecurity")
 <!--END_SECTION:badges-->  
   </div>
 
