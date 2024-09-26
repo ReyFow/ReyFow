@@ -12,6 +12,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           COMMIT_MESSAGE: "Updated badges" # optional
-          CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          #CREDLY_SORT: POPULAR # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
           CREDLY_USER: rafaraujo589 # optional, but default will use the same from github
           BADGE_SIZE: 80 # optional, 5x5 default
