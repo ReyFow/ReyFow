@@ -64,6 +64,7 @@
   <div>
       
 <!--START_SECTION:badges-->
+[![Network Defense](https://images.credly.com/size/80x80/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](http://www.credly.com/badges/6ac41fc9-5c0b-4362-ae73-e8bdd6d46811 "Network Defense")
 [![Endpoint Security](https://images.credly.com/size/80x80/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/994703c5-9c36-4ead-94a1-ac0ccf767dde "Endpoint Security")
 [![Networking Devices and Initial Configuration](https://images.credly.com/size/80x80/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/af21f826-9168-4dc8-b06e-d87653942137 "Networking Devices and Initial Configuration")
 [![Networking Basics](https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/145b6168-39d1-4cfe-b375-706f8ec065cc "Networking Basics")
