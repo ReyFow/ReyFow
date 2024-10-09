@@ -64,6 +64,7 @@
   <div>
       
 <!--START_SECTION:badges-->
+[![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/80x80/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](http://www.credly.com/badges/232fb8cb-0874-408b-b19c-afefe0f11f7d "Junior Cybersecurity Analyst Career Path")
 [![Cyber Threat Management](https://images.credly.com/size/80x80/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png)](http://www.credly.com/badges/d4bf6f81-1bc7-418c-ab27-899c7a419a05 "Cyber Threat Management")
 [![Network Defense](https://images.credly.com/size/80x80/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](http://www.credly.com/badges/6ac41fc9-5c0b-4362-ae73-e8bdd6d46811 "Network Defense")
 [![Endpoint Security](https://images.credly.com/size/80x80/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/994703c5-9c36-4ead-94a1-ac0ccf767dde "Endpoint Security")
