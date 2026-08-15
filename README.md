@@ -1,89 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4E1764"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7C3AED,100:A21CAF&text=Rafael%20Ara%C3%BAjo&fontColor=ffffff&fontSize=42&fontAlignY=32&desc=Associate%20Software%20Engineer%20@%20Capgemini%20%7C%20MSc%20Student%20@%20FEUP&descSize=16&descAlignY=52&animation=fadeIn" alt="Rafael Araújo — Associate Software Engineer @ Capgemini, MSc Student @ FEUP" />
 
-<h2 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505"
-    width="35" alt="Hand wave emoji" />! My name is Rafael Araújo and I'm a software engineering student at ISEP from <b>Porto, Portugal</b>
-  <img src="https://user-images.githubusercontent.com/107275079/215307237-c38ad7fe-6c2b-49cd-a3f9-91b42b36ccf4.png"
-    width="17" alt="Portugal flag" />!</h2>
+### 👨‍💻 About Me
 
-<section align="center">
-  <h3>📈 Stats</h3>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=ReyFow&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=4E1764&icon_color=4E1764&text_color=ffffff&include_all_commits=true" /> 
+- 💼 **Associate Software Engineer** at **Capgemini**.
+- 🎓 Graduate in **Informatics Engineering from ISEP**, currently pursuing an MSc in **Informatics and Computing Engineering at FEUP**.
+- 🔐 Particularly interested in **cybersecurity**.
+- 📍 Based in **Porto, Portugal**.
 
-    
-<!-- <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReyFow&theme=transparent&langs_count=3&hide_border=true&title_color=ffffff&text_color=ffffff" /> -->
-  </div>
+### 🛠️ Tech Stack
 
-  <h3>💻 Skills</h3>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='40'
-      alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='40' alt="c logo" />
-    <img src="https://user-images.githubusercontent.com/5421823/62779159-4cf76880-baaa-11e9-8318-e20a1aaa913a.png"
-      height='49' alt="x86-64 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='40' alt="java logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='40'
-      alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='40'
-      alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='40' alt="css3 logo" />
-  </div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
 
-  <h3>🛠️ Tools</h3>
-  <div>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' alt='vscode' height='40' />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='40'
-    alt="linux logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height='40'
-    alt="jira logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40' alt="git logo" />
-  </div>
+### 📫 Find Me
 
-  <h3>📫 How to reach me</h3>
-  <div>
-    <a href="mailto:rafaraujo589@gmail.com" target="_blank"><img
-        src="https://user-images.githubusercontent.com/107275079/215570983-890f1d63-b366-452e-9c54-e34bc939178d.png"
-        height="38" alt="Email logo" /></a>
-      <a href="https://www.linkedin.com/in/rafael-araújo-35ba30259" target="_blank"><img
-          src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" height='40'
-          alt="linkedin logo" /></a>
-  </div>
+<p align="center">
+  <a href="https://reyfow.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:rafaraujo589@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rafael-ara%C3%BAjo-35ba30259"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-  <h3>💩 Some of my friends</h3>
-  <div>
-    <a href="https://github.com/vscosousa" target="_blank"><img
-        src="https://avatars.githubusercontent.com/u/107275037?v=4" height="40" alt="vscosousa profile" /></a>
-      <a href="https://github.com/joaopinto15" target="_blank"><img
-          src="https://avatars.githubusercontent.com/u/86107009?v=4" height="40" alt="joaopinto15 profile" /></a>
-        <a href="https://github.com/gugaa03" target="_blank"><img
-            src="https://avatars.githubusercontent.com/u/127400986?v=4" height="40" alt="gugaa03 profile" /></a>
-  </div>
-
-   <h3>🏅Badges</h3>
-  <div>
-      
-<!--START_SECTION:badges-->
-[![Junior Cybersecurity Analyst Career Path](https://images.credly.com/size/75x75/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png)](http://www.credly.com/badges/232fb8cb-0874-408b-b19c-afefe0f11f7d "Junior Cybersecurity Analyst Career Path")
-[![Cyber Threat Management](https://images.credly.com/size/75x75/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png)](http://www.credly.com/badges/d4bf6f81-1bc7-418c-ab27-899c7a419a05 "Cyber Threat Management")
-[![Network Defense](https://images.credly.com/size/75x75/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](http://www.credly.com/badges/6ac41fc9-5c0b-4362-ae73-e8bdd6d46811 "Network Defense")
-[![Endpoint Security](https://images.credly.com/size/75x75/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](http://www.credly.com/badges/994703c5-9c36-4ead-94a1-ac0ccf767dde "Endpoint Security")
-[![Networking Devices and Initial Configuration](https://images.credly.com/size/75x75/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](http://www.credly.com/badges/af21f826-9168-4dc8-b06e-d87653942137 "Networking Devices and Initial Configuration")
-[![Networking Basics](https://images.credly.com/size/75x75/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](http://www.credly.com/badges/145b6168-39d1-4cfe-b375-706f8ec065cc "Networking Basics")
-[![Introduction to Cybersecurity](https://images.credly.com/size/75x75/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/3acbd55e-7d2a-4321-96ad-b890294a1bbb "Introduction to Cybersecurity")
-[![Fortinet Certified Fundamentals Cybersecurity](https://images.credly.com/size/75x75/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png)](http://www.credly.com/badges/da627eba-8c58-45ef-b905-95887e80cf3c "Fortinet Certified Fundamentals Cybersecurity")
-<!--END_SECTION:badges-->  
-  </div>
-
-  <h3>✅ Contributions</h3>
-  <div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)"
-        srcset="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake-dark.svg">
-      <img alt="github contribution grid snake animation"
-        src="https://raw.githubusercontent.com/ReyFow/ReyFow/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
-</section>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4E1764&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A21CAF,100:7C3AED&section=footer" alt="" />
